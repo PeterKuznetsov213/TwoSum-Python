@@ -1,3 +1,4 @@
+# https://leetcode.com/problems/two-sum/
 def twoSum(nums,target):
            for i in range(len(nums)):
                x=i+1
